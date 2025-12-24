@@ -62,19 +62,7 @@ pip install -r requirements.txt
 
 > Some projects may require external configuration such as file paths or server IP addresses. See individual project folders for instructions.
 
----
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to fork the repository and submit a pull request with improvements, bug fixes, or new automation scripts.
-
----
-
-## 📜 License
-
-This repository is licensed under the [MIT License](LICENSE).
-
----
 
 ## 📬 Contact
 
